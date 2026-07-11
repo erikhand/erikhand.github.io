@@ -1,2 +1,1 @@
-# erikhand.github.io
-public redirect page
+redirect to www.groceryfreshchef.com
